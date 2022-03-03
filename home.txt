@@ -448,7 +448,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646123941943,
     "title": "Giáo Chủ Muốn Ly Hôn",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -470,7 +470,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646124645202,
     "title": "Người Trong Lòng Đến Thăm Cỏ Trên Mộ Ta",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -833,7 +833,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646149860776,
     "title": "Gả Cho Tội Thần",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -852,8 +852,8 @@
     "href": "/truyen-ngon-tinh/co-vo-nong-bong-cua-anh-tham",
     "img": "https://thichtruyen.vn/upload_data/post/co-vo-nong-bong-cua-anh-tham-1-thichtruyen.vn.jpg",
     "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1646151475905,
+    "lastChapter": "Cô Vợ Nóng Bỏng Của Anh Thẩm - Chương 02",
+    "time": 1646280730404,
     "title": "Cô Vợ Nóng Bỏng Của Anh Thẩm",
     "type": "Thể loại: Ngôn Tình Hiện Đại, Ngôn Tình Sủng, Ngôn Tình Hiện Đại Ngôn Tình Sủng"
   },
@@ -888,7 +888,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646213703149,
     "title": "Phần Tư vấn - Review Phần  Thể Loại Này Là Thể Loại Gì Phần  Phần  Phần  Oan Gia Ngõ Hẹp",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -899,7 +899,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646214080725,
     "title": "Làm Thằng Đàn Ông Tốt Không Phải Lúc Nào Cũng Hay",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -910,7 +910,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646214198422,
     "title": "Con Gái Sếp Tổng Và Osin Cấp Cao!",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -921,7 +921,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646214306095,
     "title": "Nocturne -1 Kí Ức Đẹp",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -932,7 +932,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646214456394,
     "title": "Mối Tình Đầu - Sogood",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -943,7 +943,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646214556649,
     "title": "Đơn Phương !!!",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -954,7 +954,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646214659490,
     "title": "Cứu Gái Đụng Xe Và Câu Chuyện Tình Buồn",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -965,7 +965,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646214739668,
     "title": "Gái Đến Ở Cùng Nhà",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -976,7 +976,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646214779493,
     "title": "Tán Gái Ở Nhà",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -987,7 +987,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646214875032,
     "title": "Ngày Hôm Qua Phần  Phần  Phần  Đã Từng - My Life",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -998,7 +998,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646216416700,
     "title": "Yêu Người Cùng Tên",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -1009,7 +1009,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646216730118,
     "title": "Cô Gái Của Sếp",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -1020,7 +1020,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646216790103,
     "title": "Say Nắng Cô Em - Tán Cô Chị",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -1031,7 +1031,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646216939969,
     "title": "Chị Quản Lý Dễ Thương",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -1042,7 +1042,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646217090427,
     "title": "Nhật Ký Làm Bố",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -1053,7 +1053,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646217140563,
     "title": "Người Con Gái Ao Trắng Trên Quán Bar",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -1064,7 +1064,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646217240964,
     "title": "Trả Thù Gấu Chó",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -1075,7 +1075,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646217296066,
     "title": "Yêu Nhầm Chị Họ",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -1086,7 +1086,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646217614049,
     "title": "Vợ Xăm Hình Phần  Hổ Báo Phần  Nhưng Rất Chung Tình",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -1097,7 +1097,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646217731927,
     "title": "Em Đã Là Thiên Thần",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -1130,7 +1130,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646218580659,
     "title": "Tiệm Cơm Nhỏ Thành Trường An",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
@@ -1317,7 +1317,7 @@
     "lastChapter": "Chapter 0",
     "time": 1646229376657,
     "title": "Tiệm Cơm Chiên Hạnh Phúc",
-    "type": "Thể loại: "
+    "type": "Truyện VOZ"
   },
   {
     "chapterUserReading": "-1",
